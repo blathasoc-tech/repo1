@@ -1,11 +1,6 @@
-def greet_user():
-
-name = input("Please enter your name: ")
-
-age = input("Please enter your age: ")
-
-print(f"Hello, (name)! You are (age) years old.")
-
-if __name__ == __main__":
-
-greet_user()
+ef greet_user():
+    name = input("Please enter your name: ")
+    age = input("Please enter your age: ")
+    print(f"Hello, {name}! You are {age} years old.")
+if __name__ == "__main__":
+    greet_user()
